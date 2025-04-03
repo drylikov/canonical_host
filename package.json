@@ -1,0 +1,28 @@
+{
+  "name": "canonical_host",
+  "version": "0.0.5",
+  "description": "Redirect users to the canonical hostname for your site.",
+  "main": "canon.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.3.0",
+    "request": "~2.10.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/canonical_host"
+  },
+  "keywords": [
+    "redirect",
+    "canonical",
+    "canon",
+    "hostname",
+    "host",
+    "header"
+  ],
+  "author": "",
+  "license": "ISC"
+}
